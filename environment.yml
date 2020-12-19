@@ -3,10 +3,10 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - python=3.7
+#   - python=3.7
   - nb_conda
   - matplotlib
   - pint-pandas
   - pandas
   - numpy
-prefix: /opt/anaconda3/envs/SandvikBush
+# prefix: /opt/anaconda3/envs/SandvikBush
