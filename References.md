@@ -1,7 +1,16 @@
 # Useful resources
 
+## Viewers
+- [Viewer](https://nbviewer.jupyter.org/)
+  - try putting in ""
+
+
+## Physics
+
 - [MSU Phy820 Physics & Jupyter](https://people.nscl.msu.edu/~hergert/phy820/computation/python/) I've included the demo notebook and added some links from their page below.
-- [Programming for Aspiring Rocketeers](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html) Note the snide comment about a licensed profession leading that profession to becoming moribund is demonstrably false: architecture and restauraunts offer satisfactory counter examples. We can fork a copy of the [github repository](https://github.com/observatree/loops-and-orbits) for our own exploration.
+- [Programming for Aspiring Rocketeers](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html) Note the snide comment about a licensed profession leading that profession to becoming moribund is demonstrably false: architecture and restauraunts offer satisfactory counter examples. I forked a copy of the [github repository](https://github.com/judielaine/loops-and-orbits) for our own exploration.
+
+## Libraries
 
 - Python software libraries: Libraries provide extra functions to a software language: expansion packs. You have to explicitly add the libraries to use the additional functions. 
   - These should be included in the anaconda installation. (This text copied from the MSU Phy820 page.)
