@@ -4,10 +4,8 @@
 
 This project is for W & Judielaine to share files.
 
-You can look at a jupyter notebook without installing anything by going to [this page](https://nbviewer.jupyter.org/github/judielaine/SandvikBush/blob/main/Our%20first%20joint%20notebook.ipynb), which i created by going to [https://nbviewer.jupyter.org/](https://nbviewer.jupyter.org/) and entering in the URL for the view of the github view of "Our first joint notebook.ipynb". To run the notebook from the notebook viewer, click the icon in the upper right of three rings, "run on binder". It may "take longer than usual to start"
-
-
-
+You can look at a jupyter notebook without installing anything by going to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/judielaine/SandvikBush/HEAD?filepath=Our%20first%20joint%20notebook.ipynb) but we will find time to do get it running on your laptop.
+ 
 ## To Do
 
 - [ ] Install [Anaconda](https://www.anaconda.com/products/individual) "64-Bit Graphical Installer (435 MB)"
