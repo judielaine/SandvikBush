@@ -23,3 +23,4 @@ You can look at a jupyter notebook without installing anything by going to [![Bi
 ## Things That Have Gone Wrong
 
 - Notebook Refuses To Start
+[![errormessage](Error%20Message%2012:27.png)]
