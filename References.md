@@ -1,14 +1,6 @@
 # Useful resources
 
-## Viewers
-- [Viewer](https://nbviewer.jupyter.org/)
-  - try putting in ""
 
-
-## Physics
-
-- [MSU Phy820 Physics & Jupyter](https://people.nscl.msu.edu/~hergert/phy820/computation/python/) I've included the demo notebook and added some links from their page below.
-- [Programming for Aspiring Rocketeers](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html) Note the snide comment about a licensed profession leading that profession to becoming moribund is demonstrably false: architecture and restauraunts offer satisfactory counter examples. I forked a copy of the [github repository](https://github.com/judielaine/loops-and-orbits) for our own exploration.
 
 ## Libraries
 
@@ -22,3 +14,13 @@
   - [Physical units: pint](https://agilescientific.com/blog/2019/8/19/x-lines-of-python-physical-units): _I haven't played with this yet myself. Could be interesting._
 
   
+## Physics
+
+- [MSU Phy820 Physics & Jupyter](https://people.nscl.msu.edu/~hergert/phy820/computation/python/) I've included the demo notebook.
+- [Programming for Aspiring Rocketeers](http://physics.stmarys-ca.edu/faculty/brianhill/courses/Jan033/20J/index.html) Note the snide comment about a licensed profession leading that profession to becoming moribund is demonstrably false: architecture and restauraunts offer satisfactory counter examples. I forked a copy of the [github repository](https://github.com/judielaine/SandvikBush-loops-and-orbits) for our own exploration.
+
+## Other things to play with
+
+- [Music](https://github.com/judielaine/SandvikBush-Audio) This is another forked github repository that we can play with. 
+  - She, Chang. “Making Music in a Jupyter Notebook.” Medium (blog), April 9, 2020. [https://changshe.medium.com/making-music-in-a-jupyter-notebook-19c57791e636](https://changshe.medium.com/making-music-in-a-jupyter-notebook-19c57791e636).
+
