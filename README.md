@@ -2,11 +2,11 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/judielaine/SandvikBush/HEAD?filepath=Our%20first%20joint%20notebook.ipynb)
 
-This project is for W & Judielaine to share files.
+This project is for Igguanna & Judielaine to share files.
 
 You can look at a jupyter notebook without installing anything by going to [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/judielaine/SandvikBush/HEAD?filepath=Our%20first%20joint%20notebook.ipynb) but we will find time to do get it running on your laptop.
 
-## For Willem to try -- soon but not yet
+## For Igguanna to try -- soon but not yet
 
 1. Open Anaconda Navigator, go to "Environments", select "SandvikBush", and then  click "Remove" at the bottom of the environment list pane.
 2. Once it's removed, click "Import" at the bottome of the environment list pane.
