@@ -3,10 +3,22 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-#   - python=3.7
-  - nb_conda
   - matplotlib
-  - pint-pandas
+  - nb_conda
   - pandas
   - numpy
+  - pint-pandas
+  - bleach
+  - ipykernel
+  - pip
+  - jupyter_client
+  - importlib-metadata
+  - notebook
+  - ca-certificates
+  - pyzmq
+  - setuptools
+  - libopenblas
+  - pandocfilters
+  - jupyter_contrib_nbextensions
+  - jupyter_nbextensions_configurator
 # prefix: /opt/anaconda3/envs/SandvikBush
